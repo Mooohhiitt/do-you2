@@ -55,7 +55,7 @@
     color: white;
     display: grid;
     grid-template-columns: 2.5rem auto;
-    height: 1.4rem;
+    height: 1.8rem;
     transition: transform 900ms ease, background-color 900ms ease;
   }
   ul > li.active {
